@@ -21,9 +21,10 @@ table{
 	border: none;	
 }
 
-a:link{
+div.box2 a:link{
 	color:maroon;
 }
+
 
 div.tabs a:link{
 	color:white;
