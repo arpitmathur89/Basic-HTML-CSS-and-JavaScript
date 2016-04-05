@@ -10,3 +10,126 @@ td{
 	background-color: #000000;
 	color: white;
 }
+
+table{
+	 border: 5px solid black;
+    border-collapse: collapse;
+	width:100%;
+}
+
+#table1{
+	border: none;	
+}
+
+a:link{
+	color:maroon;
+}
+
+div.tabs a:link{
+	color:white;
+	text-decoration:none;
+}
+
+div.tabs a:active{
+	color:yellow;
+}
+
+div.tabs a:visited{
+	color:white;
+}
+
+.homepage{
+	border-bottom-style: solid;
+	border-bottom-color: yellow;
+}
+
+div.box1 {
+	
+		height: 500px;
+		width: 58%;
+		border: none;
+		margin-left: 2%;
+		
+	}
+
+.box1 a:link{
+	 color:maroon;
+}	
+div.box2 {
+	
+	height: 500px;
+	width: 33%;
+	border: none;
+	margin-left: 5%;
+	margin-right:2%
+}
+table#table1 th	{
+	text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.footbold{
+	font-weight: bold;
+	color:#4b4848;
+}
+
+#footer2{
+	
+	background-color:black;
+	color:grey;
+
+}
+
+.last{
+	color:grey;
+	background-color:black;
+}
+
+#footer1{
+	color:grey;
+	height:140px;
+}
+
+.column-one {
+  margin-left: 2%;
+  width: 16%;
+  border: 1px solid gray;
+  float: left;
+  border:none;
+  
+}
+
+.column-two {
+  width: 16%;
+  border: 1px solid gray;
+  float: left;
+  border:none;
+}
+.column-three {
+  width: 16%;
+  border: 1px solid gray;
+  float: left;
+  border:none;
+}
+.column-four {
+  width: 16%;
+  border: 1px solid gray;
+  float: left;
+  border:none;
+}
+
+.column-five {
+  width: 16%;
+  border: 1px solid gray;
+  float: left;
+  border:none;
+}
+.column-six {
+  width: 16%;
+  border: 1px solid gray;
+  float: left;
+  border:none;
+}
+
+
