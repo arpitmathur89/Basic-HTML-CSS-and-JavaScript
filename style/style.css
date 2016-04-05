@@ -14,7 +14,7 @@ td{
 table{
 	 border: 5px solid black;
     border-collapse: collapse;
-	width:100%;
+	width:1330px;
 }
 
 #table1{
@@ -45,10 +45,10 @@ div.tabs a:visited{
 
 div.box1 {
 	
-		height: 500px;
-		width: 58%;
+		height: 525px;
+		width: 700px;
 		border: none;
-		margin-left: 2%;
+		margin-left: 26px;
 		
 	}
 
@@ -57,11 +57,11 @@ div.box1 {
 }	
 div.box2 {
 	
-	height: 500px;
-	width: 33%;
+	height: 525px;
+	width: 504px;
 	border: none;
-	margin-left: 5%;
-	margin-right:2%
+	margin-left: 77px;
+	margin-right:26px;
 }
 table#table1 th	{
 	text-align: center;
@@ -92,8 +92,8 @@ table#table1 th	{
 }
 
 .column-one {
-  margin-left: 2%;
-  width: 16%;
+  margin-left: 26px;
+  width: 212px;
   border: 1px solid gray;
   float: left;
   border:none;
@@ -101,34 +101,34 @@ table#table1 th	{
 }
 
 .column-two {
-  width: 16%;
+  width: 212px;
   border: 1px solid gray;
   float: left;
   border:none;
 }
 .column-three {
-  width: 16%;
+  width: 212px;
   border: 1px solid gray;
   float: left;
   border:none;
 }
 .column-four {
-  width: 16%;
+  width: 212px;
   border: 1px solid gray;
   float: left;
   border:none;
 }
 
 .column-five {
-  width: 16%;
+  width: 212px;
   border: 1px solid gray;
   float: left;
   border:none;
 }
 .column-six {
-  width: 16%;
+  width: 212px;
   border: 1px solid gray;
-  float: left;
+  float: right;
   border:none;
 }
 
