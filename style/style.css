@@ -6,15 +6,11 @@ h1{
 	color: yellow;
 }
 
-td{
-	background-color: #000000;
-	color: white;
-}
 
 table{
 	 border: 5px solid black;
     border-collapse: collapse;
-	width:1330px;
+	width:100%;
 }
 
 #table1{
@@ -47,7 +43,7 @@ div.tabs a:visited{
 div.box1 {
 	
 		height: 525px;
-		width: 700px;
+		width: 58%;
 		border: none;
 		margin-left: 26px;
 		
@@ -59,9 +55,9 @@ div.box1 {
 div.box2 {
 	
 	height: 525px;
-	width: 504px;
+	width: 33%;
 	border: none;
-	margin-left: 77px;
+	margin-left: 15%;
 	margin-right:26px;
 }
 table#table1 th	{
@@ -94,7 +90,7 @@ table#table1 th	{
 
 .column-one {
   margin-left: 26px;
-  width: 212px;
+  width: 16%;
   border: 1px solid gray;
   float: left;
   border:none;
@@ -102,34 +98,34 @@ table#table1 th	{
 }
 
 .column-two {
-  width: 212px;
+  width: 16%;
   border: 1px solid gray;
   float: left;
   border:none;
 }
 .column-three {
-  width: 212px;
+  width: 16%;
   border: 1px solid gray;
   float: left;
   border:none;
 }
 .column-four {
-  width: 212px;
+  width: 16%;
   border: 1px solid gray;
   float: left;
   border:none;
 }
 
 .column-five {
-  width: 212px;
+  width: 16%;
   border: 1px solid gray;
   float: left;
   border:none;
 }
 .column-six {
-  width: 212px;
+  width: 16%;
   border: 1px solid gray;
-  float: right;
+  float: left;
   border:none;
 }
 
