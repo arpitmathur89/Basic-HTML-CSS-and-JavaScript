@@ -4,7 +4,7 @@
 		<title> Experimenting with JS</title>
 		<script type="text/javascript">
 			function addNode(){
-		
+				
 				var newP = document.createElement("p"); 
 				var textNode = document.createTextNode(" This is a new text node"); 
 				var x = newP.appendChild(textNode);
@@ -14,7 +14,13 @@
 				var y = "2";
 				var z = x+y; //Output will be 12
 				console.log(z);
-					
+
+			    var cloths = ["Shirt", "Pant", "TShirt"];
+				cloths.pop(); 
+				console.log(cloths);
+				cloths.shift();
+				console.log("Cloths array :" + cloths);
+				//document.write("Hello How are!!!");
 			}
 			myVar = setTimeout(addNode, 0000);
 			
